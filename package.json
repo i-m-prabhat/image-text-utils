@@ -1,6 +1,6 @@
 {
   "name": "image-text-utils",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A utility package to write text at multiple positions and resize images.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

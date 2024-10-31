@@ -1,1 +1,1 @@
-export * from './imageTextUtils';
+export { writeText, resizeImage } from './imageTextUtils';
